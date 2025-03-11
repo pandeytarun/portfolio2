@@ -1,2 +1,1 @@
-
-i have been doing this for quite some time now
+ THis is the practice that i have been doing to get good command over the git
